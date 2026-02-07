@@ -15,11 +15,7 @@ Supports **Signup**, **Login**, **Logout**, and **Protected Routes** using HTTP-
 
 ---
 
-## 🔗 Frontend pairing
-This backend can be paired with the Cinebook movie ticketing client shared here:
-- https://github.com/nikhilsharma2407/21-days-project-batch-1/tree/master/cinebook-movie-ticketing-system-client
 
----
 
 ## 🛠️ Tech Stack
 - Node.js
